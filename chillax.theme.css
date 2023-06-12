@@ -153,7 +153,9 @@
 --FG-cards-banner-background: transparent!important;
 } 
 
-
+#app-mount .info-3pQQBb .line-18uChy:last-child:after {
+  content: "Brundt " var(--cl-appearance) " 🎮";
+}
 
 
 /*Permissions*/
