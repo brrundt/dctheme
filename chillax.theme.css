@@ -70,7 +70,7 @@
 
 /*roots*/ /*both dark and light*/
 :root {
-  --user-name: "King";
+  --user-name: "Bruno";
   --font-name: Poppins;
   --font-size: 13px;
      
@@ -153,8 +153,16 @@
 --FG-cards-banner-background: transparent!important;
 } 
 
+/*Change lettering*/
+.theme-dark .wordmark-2u86JB::before {
+  content: "‏‏‎ b r u n o";
+}
+.wordmark-2u86JB:hover:before {
+  content: "‏‏‎ b r u n o;
+}
+
 #app-mount .info-3pQQBb .line-18uChy:last-child:after {
-  content: "Brundt " var(--cl-appearance) " 🎮";
+  content: "Bruno " var(--cl-appearance) " 🎮";
 }
 
 
