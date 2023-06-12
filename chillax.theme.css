@@ -166,6 +166,9 @@
   content: "Bruno " var(--cl-appearance) " 🎮";
 }
 
+.theme-dark .sidebar-1tnWFu .content-yjf30S:after{
+     content: '';
+}
 
 /*Permissions*/
 /*
